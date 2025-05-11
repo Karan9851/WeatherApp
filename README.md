@@ -1,2 +1,2 @@
 # WeatherApp
-Basic WeatherApp in React
+Basic WeatherApp in React 
